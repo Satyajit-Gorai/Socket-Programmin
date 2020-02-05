@@ -1,0 +1,6 @@
+this is a text file
+with many lines
+the program will send the longest line
+this is definitely the longest line of this text file, for sure, no line is greater. hands down!
+of this txt file
+from client to server & server will print the line and length

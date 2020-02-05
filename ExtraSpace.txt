@@ -1,0 +1,5 @@
+                this line has leading space
+this line has trailing space               
+         this line has both                
+this line         has spaces    in between
+      this one has      spaces   everywhere                                     

@@ -1,0 +1,17 @@
+This is a text file.
+
+Today is a friday.
+
+abc
+
+yaay
+
+22nd February 2019 11:24 a.m.
+
+This is machine number 102.
+
+Not 10.
+
+This line has 10 or more characters.
+
+Does not
